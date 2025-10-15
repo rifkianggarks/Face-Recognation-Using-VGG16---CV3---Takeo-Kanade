@@ -1,5 +1,3 @@
-Berikut versi **markdown GitHub-ready** dari bagian *Technologies Used* — sudah diformat rapi dan profesional, siap kamu tempel langsung ke README.md:
-
 ---
 
 ## 🧩 Technologies Used
